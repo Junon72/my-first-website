@@ -34,15 +34,21 @@ nav a:hover {
 .card {
     float: left;
     width: 20%;
+    height: 11em;
+    text-align: center;
     margin-left: 10%;
+    margin-bottom: 10%;
+    
 }
-.card a {
+
+.card h2 {
     text-align: center;
     
 }
 img {
     width: 100%;
-    
+
+  
 }
 
 h1 {
